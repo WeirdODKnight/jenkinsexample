@@ -17,7 +17,7 @@ http://www.mulesoft.org/schema/mule/jms http://www.mulesoft.org/schema/mule/jms/
 				<ee:set-payload ><![CDATA[%dw 2.0
 output application/json
 ---
-"This is from craft jenkins"]]></ee:set-payload>
+"This is from java jenkins"]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
